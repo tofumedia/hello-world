@@ -5,7 +5,7 @@ $ mkdir ~/hello-world
 
 
 $ cd ~/hello-world
-# Changes the current working directory to your newly created directory
+# TESTING Changes the current working directory to your newly created directory
 
 
 $ git init
