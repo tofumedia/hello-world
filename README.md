@@ -9,7 +9,7 @@ $ cd ~/hello-world
 
 
 $ git init
-# Sets up the necessary Git files
+# TESTING Sets up the necessary Git files
 
 # Initialized empty Git repository in /Users/you/hello-world/.git/
 
