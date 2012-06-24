@@ -1,7 +1,7 @@
 hello-world-testing123
 ===========
 $ mkdir ~/hello-world
-# Creates a directory for your project called "hello-world" in your user directory
+# TESTING Creates a directory for your project called "hello-world" in your user directory
 
 
 $ cd ~/hello-world
